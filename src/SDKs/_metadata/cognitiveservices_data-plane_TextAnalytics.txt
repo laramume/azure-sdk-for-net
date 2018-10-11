@@ -1,20 +1,11 @@
-﻿Installing AutoRest version: latest
-AutoRest installed successfully.
-Commencing code generation
-Generating CSharp code
-Executing AutoRest command
-cmd.exe /c autorest.cmd https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cognitiveservices/data-plane/TextAnalytics/readme.md --csharp --version=latest --reflect-api-versions --csharp.output-folder=E:\azure-sdk-for-net\src\SDKs\CognitiveServices\dataPlane\Language\TextAnalytics\TextAnalytics\Generated\TextAnalytics
-2018-07-26 19:20:31 UTC
+2018-10-11 21:34:47 UTC
+
 1) azure-rest-api-specs repository information
-GitHub fork: Azure
+GitHub user: Azure
 Branch:      master
-Commit:      c39645d5399639edb6a46d7f87715640e928cd30
+Commit:      107e0490b26a7a4c51f031750e7a20103f456e07
 
 2) AutoRest information
 Requested version: latest
-Bootstrapper version:    autorest@2.0.4282
-
-
+Bootstrapper version:    C:\Users\laramume\AppData\Roaming\npm `-- autorest@2.0.4283  
 Latest installed version:    
-
-
